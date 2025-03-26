@@ -1,0 +1,88 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+mysecrets.py
+
+# C extensions
+*.c
+*.cpp
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+*.whl
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Pyenv
+.python-version
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# mypy
+.mypy_cache/
+
+# pytest
+.cache/
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+.tox/
+
+# Sphinx documentation
+docs/_build/
+
+# Environments and runtime files
+*.env
+*.log
+*.pot
+*.mo
+
+# macOS Finder
+.DS_Store
+
+# Database
+*.sqlite3
+
+# Secret credentials
+secrets.env
+credentials.json
+
+# Jupyter kernel specs
+*.ipynb.kernelspec.json
+
+# Test results
+nosetests.xml
+test-results/
+
+# Linting tools
+.pylint.d/
+
+# Profiling
+.prof
