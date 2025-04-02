@@ -1,0 +1,13 @@
+target_id,sequence,temporal_cutoff,description,all_sequences
+7KUB_0,CUGCUCUACCUUCACCAUGCCAAGUGGUCCCAGGCUGCACCCAUGGCAGAAGGAGGGCAG,2022-06-01,Au1 Domain of VEGF Readthrough Element,N/A
+7KUB_0,CUGCUCUACCUUCACCAUGCCAAGUGGUCCCAGGCUGCACCCAUGGCAGAAGGAGGGCAG,2022-06-01,Au1 Domain of VEGF Readthrough Element,N/A
+7KUC_0,GGAGGAAGGAGCCUCC,2022-06-01,Ax1 Domain of VEGF Readthrough Element,N/A
+7KUD_0,GGUUUCGGGAACC,2022-06-01,Ax2 Domain of VEGF Readthrough Element,N/A
+7ZEX_0,UAAUGUCG,2022-05-04,Complex Cyp33-RRMdelta alpha : UAAUGUCG RNA,N/A
+7RWR_0,GGAUACACAAGAGUGAUUGAAACUAAGUCUGUGUAUCC,2022-07-20,An RNA aptamer that decreases flavin redox potential,N/A
+9CDB_0,AAA,2024-10-30,"CryoEM structure of CRISPR associated effector, CARF-Adenosine deaminase 1, Cad1, in cA6 (partial density) bound form with ATP (partial density).",N/A
+7SHX_0,GGACCCAUAACCCACCUAGACCCUAGCUUCGGCUAGAGGGUCAACGCGAAAGCGAGGCCGGGUGGGCGGGUACGUCCGCCCUGGGGAGGGGUCC,2022-10-19,"A functional SNP regulates E-cadherin expression by dynamically remodeling the 3D structure of a promoter-associated non-coding RNA transcript, NMR, minimized average structure",N/A
+7ZEW_0,AAUAAA,2022-04-13,Complex Cyp33-RRM : AAUAAA RNA,N/A
+7Q33_0,AGCUUUG,2023-02-08,Solution structure of RBM39 RRM2 bound to 5'-AGCUUUG-3,N/A
+4CIO_0,GGUGUGC,2014-09-03,RRM domain from C. elegans SUP-12 bound to GGUGUGC RNA,N/A
+7UMD_0,GGACGUGGACCGACUUCGGUCGGAAGGAAACUUAACGUCC,2022-07-06,DENV1 SLA three-way junction RNA (DenvSLAsh),N/A
