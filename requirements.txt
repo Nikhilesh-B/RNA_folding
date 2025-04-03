@@ -1,6 +1,7 @@
 appnope==0.1.4
 asttokens==3.0.0
 attrs==25.3.0
+biopython==1.85
 certifi==2025.1.31
 charset-normalizer==3.4.1
 comm==0.2.2
